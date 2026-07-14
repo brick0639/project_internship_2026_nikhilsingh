@@ -25,7 +25,7 @@ export default function Header() {
             <Sparkles className="h-5 w-5" />
           </div>
           <div className="flex flex-col">
-            <span className="text-lg font-semibold tracking-tight text-slate-900">BiteBox</span>
+            <span className="text-lg font-semibold tracking-tight text-slate-900">DownTown</span>
             <span className="text-[11px] font-medium uppercase tracking-[0.32em] text-slate-500">Luxury delivery</span>
           </div>
         </Link>

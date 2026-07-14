@@ -140,7 +140,7 @@ export default function Profile({ setIsLogin }: ProfileProps) {
         <button onClick={handleLogout} className="flex w-full items-center justify-center gap-2 rounded-full bg-[#FF5A3D] py-4 text-lg font-semibold text-white shadow-lg transition hover:-translate-y-0.5">
           <LogOut className="h-5 w-5" /> Log out
         </button>
-        <p className="mt-6 text-center text-sm text-slate-500">BiteBox © 2026. All rights reserved.</p>
+        <p className="mt-6 text-center text-sm text-slate-500">DownTown © 2026. All rights reserved.</p>
       </div>
     </div>
   );

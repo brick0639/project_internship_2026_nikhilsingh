@@ -138,7 +138,7 @@ export default function Home() {
       <section className="mx-auto max-w-7xl px-4 pb-24 sm:px-6 lg:px-8">
         <div className="grid gap-6 lg:grid-cols-[1.15fr_0.85fr]">
           <div className="rounded-[2.5rem] border border-slate-200/80 bg-[#1F2937] p-8 text-white shadow-[0_30px_100px_-40px_rgba(31,41,55,0.8)]">
-            <p className="text-sm font-semibold uppercase tracking-[0.3em] text-orange-200">BiteBox mobile</p>
+            <p className="text-sm font-semibold uppercase tracking-[0.3em] text-orange-200">DownTown mobile</p>
             <h2 className="mt-3 text-3xl font-semibold">Order on the go with gorgeous, fast experiences.</h2>
             <p className="mt-4 max-w-xl text-base leading-8 text-slate-300">Stay on top of your delivery, discover personalized recommendations, and unlock exclusive offers from the app.</p>
             <div className="mt-6 flex flex-wrap gap-3">

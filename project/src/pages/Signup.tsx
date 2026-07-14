@@ -83,7 +83,7 @@ const Signup: React.FC = () => {
               <Sparkles className="h-6 w-6" />
             </div>
             <h1 className="text-3xl font-semibold text-slate-900">Create your account</h1>
-            <p className="mt-2 text-sm leading-7 text-slate-600">Join BiteBox and discover the city's most exciting food.</p>
+            <p className="mt-2 text-sm leading-7 text-slate-600">Join DownTown and discover the city's most exciting food.</p>
           </div>
           <form onSubmit={handleSignup} className="space-y-4">
             <div className="grid gap-4 md:grid-cols-2">

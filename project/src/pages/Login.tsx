@@ -63,7 +63,7 @@ const Login: React.FC<LoginProps> = ({ setIsLogin }) => {
               <Sparkles className="h-6 w-6" />
             </div>
             <h1 className="text-3xl font-semibold text-slate-900">Welcome back</h1>
-            <p className="mt-2 text-sm leading-7 text-slate-600">Sign in to continue your premium BiteBox journey.</p>
+            <p className="mt-2 text-sm leading-7 text-slate-600">Sign in to continue your premium DownTown journey.</p>
           </div>
           <form onSubmit={handleLogin} className="space-y-5">
             <div>

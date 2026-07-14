@@ -12,7 +12,7 @@ export default function Footer() {
                 <span className="text-lg font-semibold">B</span>
               </div>
               <div>
-                <p className="text-lg font-semibold text-slate-900">BiteBox</p>
+                <p className="text-lg font-semibold text-slate-900">DownTown</p>
                 <p className="text-sm text-slate-500">Premium delivery</p>
               </div>
             </div>
@@ -41,7 +41,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-slate-600">
               <li className="flex items-center gap-2"><MapPin className="h-4 w-4 text-[#FF5A3D]" /><span>Hyderabad, India</span></li>
               <li className="flex items-center gap-2"><Phone className="h-4 w-4 text-[#FF5A3D]" /><span>+91 98765 43210</span></li>
-              <li className="flex items-center gap-2"><Mail className="h-4 w-4 text-[#FF5A3D]" /><span>support@bitebox.com</span></li>
+              <li className="flex items-center gap-2"><Mail className="h-4 w-4 text-[#FF5A3D]" /><span>support@downtown.com</span></li>
             </ul>
             <div className="mt-5 flex gap-3 text-slate-600">
               <a href="#" className="rounded-full border border-slate-200 bg-white p-2.5 transition hover:border-[#FF5A3D] hover:text-[#FF5A3D]"><Facebook className="h-4 w-4" /></a>
@@ -51,7 +51,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-slate-200 pt-8 text-sm text-slate-500 md:flex-row">
-          <p>© 2026 BiteBox. All rights reserved.</p>
+          <p>© 2026 DownTown. All rights reserved.</p>
           <div className="flex gap-4">
             <Link className="transition hover:text-[#FF5A3D]" to="/privacy">Privacy</Link>
             <Link className="transition hover:text-[#FF5A3D]" to="/terms">Terms</Link>

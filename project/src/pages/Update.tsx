@@ -115,7 +115,7 @@ function Update() {
           <Link to="/profile" className="rounded-full border border-slate-200 bg-slate-50 p-3 text-slate-700 shadow-sm"><ArrowLeft className="h-5 w-5" /></Link>
           <div>
             <h1 className="text-3xl font-semibold text-slate-900">Update profile</h1>
-            <p className="text-sm text-slate-500">Keep your BiteBox details polished and accurate.</p>
+            <p className="text-sm text-slate-500">Keep your DownTown details polished and accurate.</p>
           </div>
         </div>
 

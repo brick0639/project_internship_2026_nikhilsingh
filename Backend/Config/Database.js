@@ -1,7 +1,7 @@
 const { Sequelize } = require("sequelize");
 
 const sequelize = new Sequelize(
-  "mysql://root:quofYnbeanjxxtgVyyNmcoSkpWwVdpcE@hayabusa.proxy.rlwy.net:54176/railway",
+  "mysql://root:bBaiGNhlQhmUXaEZIplrspiuZyFiWiyu@tokaido.proxy.rlwy.net:42759/railway",
   {
     dialect: "mysql",
     logging: false,
